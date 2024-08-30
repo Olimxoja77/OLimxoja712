@@ -1,0 +1,145 @@
+header{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 700px;
+    height: 24px;
+
+}
+img{
+    width: 25px;
+    height: 25px;
+}
+a{
+    text-decoration:none ;
+    color: blue;
+}
+a:hover{
+    color: orange;
+}
+button{
+    width: 120px;
+    height: 50px;
+    background: #FF7A50;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 10px 10px 10px rgb(254, 219, 153);
+}
+b{
+    color: #FF7A50;
+}
+.boo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.w{
+    width: 720px;
+    height: 680px;
+}
+.box2{
+    width: 400px;
+    height: 500px;
+    padding-top: 100px;
+}
+.q{
+    color: black;
+}
+.boo2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.box5{
+    width: 400px;
+    height: 500px;
+    padding-top: 100px;
+}
+.m{
+    display: flex;
+  border: 1px solid;
+  
+}
+.box6 img{
+    width: 360px;
+    height: 300px;
+}
+.z{
+    width: 22px;
+    height: 22px;
+}
+.booi{
+    display: flex;
+    flex-direction: column;
+}
+.bo{
+    display: flex;
+    align-items:center ;
+    justify-content: ;
+}
+.we{
+    width: 360px;
+    height: 417px;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+h3{
+    text-align: center;
+    font-size: 100px;
+}
+.moo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.nma{
+    width: 616px;
+    height: 480px;
+}
+.vb{
+    width: 135px;
+    height: 40px;
+}
+.mo{
+    width: 538px;
+    height: 174px;
+}
+h6{
+    font-size: 30px;
+}
+footer{
+    width: 1170px;
+    height: 312px;
+    background-color: #FF7A50;
+    margin: auto;
+}
+.as{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.mk{
+    border-radius: 30px;
+    background-color: white;
+    width: 835px;
+    height: 78px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.cvc{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.lkl{
+    margin: 20px;
+}
